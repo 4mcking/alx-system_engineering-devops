@@ -1,7 +1,6 @@
 # 0x16. API advanced
 
-I continued to practice querying API's in this advanced project, this time
-working with the Reddit API.
+I continued to practice querying API's in this advanced project, this time working with the Reddit API.
 
 ## Function Prototypes :floppy_disk:
 
